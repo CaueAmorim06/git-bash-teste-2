@@ -1,0 +1,22 @@
+.teste1{
+    display: flex;
+    background-color: aqua;
+    width: 300px;
+    height: 300px;
+}
+.teste2{
+    display: flex;
+    background-color: green;
+    width: 300px;
+    height: 400px;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+body{
+    display: flex;
+}
